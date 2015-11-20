@@ -1,0 +1,1 @@
+Simple text from powerpoint with some text formatting.
